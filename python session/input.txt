@@ -1,0 +1,5 @@
+Learning Python is fun and easy.
+File handling is a powerful concept.
+We can read, write, and modify files.
+Practice helps in mastering Python skills.
+This is the fifth line of this file.

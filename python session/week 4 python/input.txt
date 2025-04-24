@@ -1,0 +1,2 @@
+Learning python is fun and easy 
+File handling is a powerfull concept 
